@@ -1,5 +1,5 @@
 name: Wiki Apps
-description:
+description: Standalone wikis, Wiki plugins and Wiki clients
 projects:
   - AndyMoreland/kii
   - benatkin/weaky
@@ -18,3 +18,4 @@ projects:
   - semanticart/hoboken
   - soywiki
   - sr/git-wiki
+  - Dahie/caramelize
